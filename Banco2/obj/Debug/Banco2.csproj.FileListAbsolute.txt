@@ -1,0 +1,7 @@
+C:\ntwin\Curso\CSharp\Udemy\Banco2\obj\Debug\Banco2.csprojAssemblyReference.cache
+C:\ntwin\Curso\CSharp\Udemy\Banco2\obj\Debug\Banco2.csproj.CoreCompileInputs.cache
+C:\ntwin\Curso\CSharp\Udemy\Banco2\bin\Debug\Banco2.exe.config
+C:\ntwin\Curso\CSharp\Udemy\Banco2\bin\Debug\Banco2.exe
+C:\ntwin\Curso\CSharp\Udemy\Banco2\bin\Debug\Banco2.pdb
+C:\ntwin\Curso\CSharp\Udemy\Banco2\obj\Debug\Banco2.exe
+C:\ntwin\Curso\CSharp\Udemy\Banco2\obj\Debug\Banco2.pdb

@@ -1,0 +1,7 @@
+C:\ntwin\Curso\CSharp\Udemy\estoque\obj\Debug\estoque.csprojAssemblyReference.cache
+C:\ntwin\Curso\CSharp\Udemy\estoque\obj\Debug\estoque.csproj.CoreCompileInputs.cache
+C:\ntwin\Curso\CSharp\Udemy\estoque\bin\Debug\estoque.exe.config
+C:\ntwin\Curso\CSharp\Udemy\estoque\bin\Debug\estoque.exe
+C:\ntwin\Curso\CSharp\Udemy\estoque\bin\Debug\estoque.pdb
+C:\ntwin\Curso\CSharp\Udemy\estoque\obj\Debug\estoque.exe
+C:\ntwin\Curso\CSharp\Udemy\estoque\obj\Debug\estoque.pdb

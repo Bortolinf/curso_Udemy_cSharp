@@ -1,0 +1,7 @@
+C:\ntwin\curso\csharp\Udemy\mediaIdades\bin\Debug\mediaIdades.exe.config
+C:\ntwin\curso\csharp\Udemy\mediaIdades\bin\Debug\mediaIdades.exe
+C:\ntwin\curso\csharp\Udemy\mediaIdades\bin\Debug\mediaIdades.pdb
+C:\ntwin\curso\csharp\Udemy\mediaIdades\obj\Debug\mediaIdades.csprojAssemblyReference.cache
+C:\ntwin\curso\csharp\Udemy\mediaIdades\obj\Debug\mediaIdades.csproj.CoreCompileInputs.cache
+C:\ntwin\curso\csharp\Udemy\mediaIdades\obj\Debug\mediaIdades.exe
+C:\ntwin\curso\csharp\Udemy\mediaIdades\obj\Debug\mediaIdades.pdb

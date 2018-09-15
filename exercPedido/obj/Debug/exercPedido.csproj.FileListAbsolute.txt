@@ -1,0 +1,7 @@
+C:\ntwin\Curso\CSharp\Udemy\exercPedido\obj\Debug\exercPedido.csprojAssemblyReference.cache
+C:\ntwin\Curso\CSharp\Udemy\exercPedido\obj\Debug\exercPedido.csproj.CoreCompileInputs.cache
+C:\ntwin\Curso\CSharp\Udemy\exercPedido\bin\Debug\exercPedido.exe.config
+C:\ntwin\Curso\CSharp\Udemy\exercPedido\bin\Debug\exercPedido.exe
+C:\ntwin\Curso\CSharp\Udemy\exercPedido\bin\Debug\exercPedido.pdb
+C:\ntwin\Curso\CSharp\Udemy\exercPedido\obj\Debug\exercPedido.exe
+C:\ntwin\Curso\CSharp\Udemy\exercPedido\obj\Debug\exercPedido.pdb

@@ -1,0 +1,7 @@
+C:\ntwin\Curso\CSharp\Udemy\vetores\bin\Debug\vetores.exe.config
+C:\ntwin\Curso\CSharp\Udemy\vetores\bin\Debug\vetores.exe
+C:\ntwin\Curso\CSharp\Udemy\vetores\bin\Debug\vetores.pdb
+C:\ntwin\Curso\CSharp\Udemy\vetores\obj\Debug\vetores.csprojAssemblyReference.cache
+C:\ntwin\Curso\CSharp\Udemy\vetores\obj\Debug\vetores.csproj.CoreCompileInputs.cache
+C:\ntwin\Curso\CSharp\Udemy\vetores\obj\Debug\vetores.exe
+C:\ntwin\Curso\CSharp\Udemy\vetores\obj\Debug\vetores.pdb

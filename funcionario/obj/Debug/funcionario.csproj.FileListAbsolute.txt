@@ -1,0 +1,7 @@
+C:\ntwin\Curso\CSharp\Udemy\funcionario\obj\Debug\funcionario.csprojAssemblyReference.cache
+C:\ntwin\Curso\CSharp\Udemy\funcionario\obj\Debug\funcionario.csproj.CoreCompileInputs.cache
+C:\ntwin\Curso\CSharp\Udemy\funcionario\bin\Debug\funcionario.exe.config
+C:\ntwin\Curso\CSharp\Udemy\funcionario\bin\Debug\funcionario.exe
+C:\ntwin\Curso\CSharp\Udemy\funcionario\bin\Debug\funcionario.pdb
+C:\ntwin\Curso\CSharp\Udemy\funcionario\obj\Debug\funcionario.exe
+C:\ntwin\Curso\CSharp\Udemy\funcionario\obj\Debug\funcionario.pdb

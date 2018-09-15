@@ -1,0 +1,7 @@
+C:\ntwin\curso\csharp\Udemy\equacao\bin\Debug\equacao.exe.config
+C:\ntwin\curso\csharp\Udemy\equacao\bin\Debug\equacao.exe
+C:\ntwin\curso\csharp\Udemy\equacao\bin\Debug\equacao.pdb
+C:\ntwin\curso\csharp\Udemy\equacao\obj\Debug\equacao.csprojAssemblyReference.cache
+C:\ntwin\curso\csharp\Udemy\equacao\obj\Debug\equacao.csproj.CoreCompileInputs.cache
+C:\ntwin\curso\csharp\Udemy\equacao\obj\Debug\equacao.exe
+C:\ntwin\curso\csharp\Udemy\equacao\obj\Debug\equacao.pdb
